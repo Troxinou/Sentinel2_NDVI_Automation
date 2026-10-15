@@ -2,7 +2,7 @@
 
 Script Python permettant d'automatiser le calcul de l'Indice de Végétation (NDVI) à partir de données Copernicus Sentinel-2.
 
-## 📸 Aperçu du résultat sur Champs-sur-Marne
+## Aperçu du résultat sur Champs-sur-Marne
 ![Aperçu NDVI](apercu.png)
 
 ## Stack Technique
